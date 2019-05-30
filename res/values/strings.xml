@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="welcome">Welcome to android quiz</string>
+    <string name="Q1">Q1. Is it possible to have an activity without UI to perform action/actions?</string>
+    <string name="a">Not possible</string>
+    <string name="b">Wrong question</string>
+    <string name="c">Yes,it is possible</string>
+    <string name="Q2">Q2. On which thread broadcast receivers will work in android?</string>
+    <string name="d">None of the above</string>
+    <string name="e">Worker Thread</string>
+    <string name="f">Main Thread</string>
+    <string name="g">Activity Thread</string>
+    <string name="Q3">Q3. What is the application class in android?</string>
+    <string name="h">None of the above</string>
+    <string name="i">A class that can create only object</string>
+    <string name="j">Anonymous class</string>
+    <string name="Q4">Q4. What are the debugging techniques available in android?</string>
+    <string name="k">Java class</string>
+    <string name="l">Base class for all classes</string>
+    <string name="m">DDMS</string>
+    <string name="n">Breaking point</string>
+    <string name="Q5">Q5. Data can be read from local source XML in android through</string>
+    <string name="o">Memory profiling</string>
+    <string name="p">None of the above</string>
+    <string name="q">XML resource parser</string>
+    <string name="Q6">Q6. How to find the JSON element length in android JSON?</string>
+    <string name="r">XML pull parsing</string>
+    <string name="s">DOM parsing</string>
+    <string name="t">None of the above</string>
+    <string name="Q7">Q7. What is android view group?s</string>
+    <string name="u">Google Cloud Messaging for chrome</string>
+    <string name="v">Google Count Messaging</string>
+    <string name="w">Google Message pack</string>
+    <string name="Submit">submit</string>
+
+</resources>
+
